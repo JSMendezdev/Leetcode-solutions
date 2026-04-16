@@ -12,6 +12,11 @@ Usec Counting Sort
 -Compute prefix sums
 -O(n) time complexity
 
+Key Concepts
+-Counting Sort
+-Stable sorting
+-O(n) time complexity
+
 --
 Maximum Gap (Leetcode problem 164)
 
