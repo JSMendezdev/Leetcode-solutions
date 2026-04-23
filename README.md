@@ -36,3 +36,14 @@ Key concepts
 -Linear time optimization
 
 --
+Partition Equal Subset Sum (Leetcode problem 416)
+
+Approach
+Dynamic Programming (Subset Sum) : We check whether the array can be split into two subsets with equal sum by reducing the problem to finding a subset that sums to total/2
+
+Key concepts
+-Transform problem into subset sum
+-Use DP to track achievable sum
+
+Time complexity
+O(n * sum)
